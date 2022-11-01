@@ -1,0 +1,4 @@
+email,subject,message
+fakeman@fakemail.com,test,Test saving message
+fakeman@fakemail.com,test2,another test
+fakeman@fakemail.com,test3,yet another test
